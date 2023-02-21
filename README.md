@@ -20,8 +20,8 @@ There are many algorithms for avoiding obstacles using many sensors and controll
 
 **#circuit diagram:**
 ![WhatsApp Image 2023-02-21 at 15 35 36](https://user-images.githubusercontent.com/88397453/220326239-e3cd33b8-dfcd-4ac3-b518-188563efa979.jpg)
-**
-#code:**
+
+**Code**
 [code.txt](https://github.com/megh212/Obstacle-Avoiding-Robot-with-Arduino-Uno-and-Servo-motor/files/10792767/code.txt)
 
 **#PPT explaining complete model**
